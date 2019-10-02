@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sum-Average-SD/static/css/main.b040eca4.chunk.css",
-    "main.js": "/Sum-Average-SD/static/js/main.a6bf0906.chunk.js",
-    "main.js.map": "/Sum-Average-SD/static/js/main.a6bf0906.chunk.js.map",
-    "runtime-main.js": "/Sum-Average-SD/static/js/runtime-main.59b64961.js",
-    "runtime-main.js.map": "/Sum-Average-SD/static/js/runtime-main.59b64961.js.map",
-    "static/js/2.a113c019.chunk.js": "/Sum-Average-SD/static/js/2.a113c019.chunk.js",
-    "static/js/2.a113c019.chunk.js.map": "/Sum-Average-SD/static/js/2.a113c019.chunk.js.map",
-    "index.html": "/Sum-Average-SD/index.html",
-    "precache-manifest.7248d0fd20229094bedfd08a6ad410cf.js": "/Sum-Average-SD/precache-manifest.7248d0fd20229094bedfd08a6ad410cf.js",
-    "service-worker.js": "/Sum-Average-SD/service-worker.js",
-    "static/css/main.b040eca4.chunk.css.map": "/Sum-Average-SD/static/css/main.b040eca4.chunk.css.map"
+    "main.css": "/Expect-Something-From-Number/static/css/main.b040eca4.chunk.css",
+    "main.js": "/Expect-Something-From-Number/static/js/main.27136d72.chunk.js",
+    "main.js.map": "/Expect-Something-From-Number/static/js/main.27136d72.chunk.js.map",
+    "runtime-main.js": "/Expect-Something-From-Number/static/js/runtime-main.8b459aad.js",
+    "runtime-main.js.map": "/Expect-Something-From-Number/static/js/runtime-main.8b459aad.js.map",
+    "static/js/2.a113c019.chunk.js": "/Expect-Something-From-Number/static/js/2.a113c019.chunk.js",
+    "static/js/2.a113c019.chunk.js.map": "/Expect-Something-From-Number/static/js/2.a113c019.chunk.js.map",
+    "index.html": "/Expect-Something-From-Number/index.html",
+    "precache-manifest.f60a87cd8155a5d5ec9649d9dfb2b8fc.js": "/Expect-Something-From-Number/precache-manifest.f60a87cd8155a5d5ec9649d9dfb2b8fc.js",
+    "service-worker.js": "/Expect-Something-From-Number/service-worker.js",
+    "static/css/main.b040eca4.chunk.css.map": "/Expect-Something-From-Number/static/css/main.b040eca4.chunk.css.map"
   }
 }
